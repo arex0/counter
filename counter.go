@@ -42,7 +42,7 @@ func main() {
 		Cache:      autocert.DirCache("cert"),
 		Email:      "cn.js.cross@gmail.com",
 	}
-	server := server.New(&mux, server.WithTLSConfig(tls.Config{
+	server := server.New(&mux, server.WithTLSConfig(&tls.Config{
 		GetCertificate:           certManager.GetCertificate,
 		NextProtos:               []string{"h2", "http/1.1"},
 		MinVersion:               tls.VersionTLS12,

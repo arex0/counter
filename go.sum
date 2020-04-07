@@ -1,3 +1,7 @@
+github.com/arex0/go-ext v0.0.0-20200326041900-286c8ad8f5fe h1:Yv9LkhZkne5TXI715bPSviQqMmqmDRx2HoNHGeuldWQ=
+github.com/arex0/go-ext v0.0.0-20200326041900-286c8ad8f5fe/go.mod h1:7Q7b7jlTm/e6Kwuk9fm0LwLXTZ+1zkU1gzNiCyZe7nY=
+github.com/arex0/server v0.0.0-20200407064509-0c5bcdb6edb5 h1:u6N1XHLnacofOBlOm2ECj+fmv1cu1c1oDd4gxe3Ba4I=
+github.com/arex0/server v0.0.0-20200407064509-0c5bcdb6edb5/go.mod h1:Mw8wb4eyR2w05G4XJRATVpFjqR8FE0cZgjkCgERE2OA=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20200406173513-056763e48d71 h1:DOmugCavvUtnUD114C1Wh+UgTgQZ4pMLzXxi1pSt+/Y=
 golang.org/x/crypto v0.0.0-20200406173513-056763e48d71/go.mod h1:LzIPMQfyMNhhGPhUkYOs5KpL4U8rLKemX1yGLhDgUto=
